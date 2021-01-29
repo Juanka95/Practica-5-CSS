@@ -1,0 +1,76 @@
+body{
+
+    text-align: justify;
+
+
+}
+
+
+h1{
+
+    text-align: center;
+    font-family: sans-serif;
+    border: black 5px solid;
+
+}
+
+p.uno{
+
+    border-left: double 20px red;
+    border-top: double 20px red;
+    font-family: sans-serif;
+    font-size:25px;
+
+}
+
+p.dos{
+    
+    border-top: blue 5px dashed;
+    border-right: green 10px dashed;
+    border-bottom: blue 25px dashed;
+    border-left:green 40px dashed;
+    font-family: sans-serif;
+    font-size:25px;
+}
+
+p.tres{
+
+    font-family: sans-serif;
+    font-size:25px;
+    border-left: double 10px rgb(255, 210, 0);
+    border-top: double 40px rgb(255, 210, 0);
+    border-bottom: double 40px rgb(255, 210, 0);
+    border-right: double 10px rgb(255, 210, 0) ;
+
+}
+
+p.cuatro{
+
+    border-top: solid 20px rgb(0,255, 0);
+    border-bottom: solid 20px rgb(0, 0, 255);
+    font-family: sans-serif;
+    font-size:25px
+
+}
+
+p.cinco{
+
+    font-family: sans-serif;
+    font-size:25px;
+    border-top: red 36px dashed;
+    border-bottom: dotted 35px black;
+    border-right: black 40px solid;
+    border-left: black 40px solid;
+
+}
+
+p.seis{
+
+    font-family: sans-serif;
+    font-size:25px;
+    border-top: dotted 10px black;
+    border-left: double 36px red;
+    border-bottom: black 20px dashed;
+    border-right: black 40px solid;
+
+}
